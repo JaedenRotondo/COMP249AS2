@@ -8,6 +8,6 @@ public class Driver {
         Vaccine v = new Vaccine();
         Patient a  = new Patient("name", "Healthcard Number", "email Adress", 234324, v);
         // String name, String healthCardNumber, String emailAddress, long phoneNumber, Object vaccine
-        System.out.println(a.toString());
+        System.out.println(a);
     }
 }

@@ -3,5 +3,5 @@ package Adress;
 //the clinic. The numbers formatted according to the North American Numbering Plan written with a hyphen
 //between each sequences. For instance, 1-NPA-XXX-XXXX, where NPA represents the area code.
 public class TelecomAddress {
-    String telecomAdress[];
+    String[] telecomAdress;
 }

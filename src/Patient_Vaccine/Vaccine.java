@@ -2,7 +2,7 @@ package Patient_Vaccine;
 
 public class Vaccine {
     enum vaccineType{
-        PFIZER, MODERNA, ASTRAZENECA, OTHER;
+        PFIZER, MODERNA, ASTRAZENECA, OTHER
     }
     private String dose1Date;
     private String dose2Date;
